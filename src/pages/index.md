@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Welcome to www.rahar.com
 image: /img/home-jumbotron.jpg
 heading: Welcome to www.raghar.com
 subheading: Support sustainable farming while enjoying a cup
